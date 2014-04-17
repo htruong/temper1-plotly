@@ -1,0 +1,5 @@
+This script plots your real-time temperature data to plot.ly
+
+First, edit the bash script to suit whatever method you use to get the temperature.
+Then, rename and edit the config file to your credentials on plot.ly
+Then, enjoy.
